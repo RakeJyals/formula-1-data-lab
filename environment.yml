@@ -1,0 +1,12 @@
+name: f1-data-display
+dependencies:
+  - matplotlib
+  - numpy
+  - jupyterlab-lsp
+  - ipykernel
+  - pandas
+  - scikit-learn
+  - seaborn
+  - fastf1
+  - r-tidyverse
+  - r-irkernel
