@@ -1,0 +1,1 @@
+This repository is a collection of jupyter notebooks I have written for the purpose of performing a variety of formula 1 analytics, including display of race data in real time and modeling lap times based off of environmental conditions.
